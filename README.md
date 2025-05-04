@@ -139,4 +139,4 @@ Install the required libraries using pip:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-Place the six CSV files (uber-raw-data-apr14.csv to `uber-raw-data-sep14.csv
+Place the six CSV files (uber-raw-data-apr14.csv to `uber-raw-data-sep14.csv)
